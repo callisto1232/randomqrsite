@@ -1,6 +1,6 @@
 # randomqrsite
 
-This python script chooses a website from 1000 most used websites list and writes the qr that goes to that random selected website to `.png` file.
+This python script chooses a website from 1000 most used websites list and writes the qr that goes to that random selected website to a `.png` file.
 
 I didn't want the images to be overwritten so I added a feature in `save_qr` function that prevents overwrites and gives the file an indexed name.
 ```python
